@@ -1,13 +1,28 @@
-# Sample Hardhat Project
+# DAPP VOTING
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+El proyecto es una Beta, se lo puso en prueba. 
+https://sepolia.arbiscan.io/address/0x82d1a99a10f62749f6db05c36118921d5160d074
+
+Trabajo final EDUCATECH
+
+Se ejecuta el deploy a travez de la red TEST arbitrumSepolia.
+
+
+
+
+
+
+
+
+
+
+
+
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network arbitrumSepolia
+
+By Kalcha
