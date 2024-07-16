@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# DAPP VOTING
+
+El proyecto es una Beta, se lo puso en prueba. 
+https://sepolia.arbiscan.io/address/0x82d1a99a10f62749f6db05c36118921d5160d074
+
+Trabajo final EDUCATECH
+
+Se ejecuta el deploy a travez de la red TEST arbitrumSepolia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network arbitrumSepolia
+
+By Kalcha
+>>>>>>> 00314e24789d418a78c99d08d8e8f4ea7f203195
